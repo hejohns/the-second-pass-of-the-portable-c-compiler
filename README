@@ -8,6 +8,13 @@ Bell Laboratories
 --------------------
 
 
+This pdf is large (~240 MB).
+Due to github filesize limits, the pdf has been split (GNU `split`) up.
+Please clone and `cat x* > The_Second_Pass_of_the_Portable_C_Compiler.pdf`
+or if inconvenient:
+   https://drive.google.com/file/d/1bhEoQsmYmOIx8trDoJp4WfVT0zrjwzKU/view?usp=sharing
+
+
 Scanned with (TODO: name of scanner) overhead camera, provided by the
 University of Michigan's Hatcher Library.
 
